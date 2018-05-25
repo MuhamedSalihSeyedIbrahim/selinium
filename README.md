@@ -12,6 +12,6 @@ JDK
 selinium web builder
 
 # INFO
-the code uses java eniv
-can be recorded using selinium builder
-simple d run to be modified an 
+the code uses java environment
+And Code can be recorded using selinium builder tool
+simple  run to be modified an 
